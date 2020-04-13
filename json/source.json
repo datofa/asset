@@ -1,0 +1,76 @@
+{
+	"items" : [
+		{
+			"item_id" : "1",
+			"item_name" : "Food 001",
+			"item_price" : "20000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/food001.jpeg"
+		},
+		{
+			"item_id" : "2",
+			"item_name" : "Food 002",
+			"item_price" : "40000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/food002.jpeg"
+		},
+		{
+			"item_id" : "3",
+			"item_name" : "Food 003",
+			"item_price" : "35000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/food003.jpeg"
+		},
+		{
+			"item_id" : "4",
+			"item_name" : "Food 004",
+			"item_price" : "25000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/food004.jpeg"
+		},
+		{
+			"item_id" : "5",
+			"item_name" : "Food 005",
+			"item_price" : "20000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/food005.jpeg"
+		},
+		{
+			"item_id" : "6",
+			"item_name" : "Food 006",
+			"item_price" : "28000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/food006.jpeg"
+		},
+		{
+			"item_id" : "7",
+			"item_name" : "Drink 001",
+			"item_price" : "15000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/drink001.jpeg"
+		},
+		{
+			"item_id" : "8",
+			"item_name" : "Drink 002",
+			"item_price" : "22000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/drink002.jpeg"
+		},
+		{
+			"item_id" : "9",
+			"item_name" : "Drink 003",
+			"item_price" : "27000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/drink003.jpeg"
+		},
+		{
+			"item_id" : "10",
+			"item_name" : "Drink 004",
+			"item_price" : "27000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/drink004.jpeg"
+		},
+		{
+			"item_id" : "11",
+			"item_name" : "Drink 005",
+			"item_price" : "30000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/drink005.jpeg"
+		},
+		{
+			"item_id" : "12",
+			"item_name" : "Drink 006",
+			"item_price" : "23000",
+			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/drink006.jpeg"
+		}
+	]
+}
