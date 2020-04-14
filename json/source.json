@@ -1,5 +1,4 @@
-{
-	"items" : [
+[
 		{
 			"item_id" : "1",
 			"item_name" : "Food 001",
@@ -72,5 +71,4 @@
 			"item_price" : "23000",
 			"item_thumb" : "https://raw.githubusercontent.com/datofa/asset/master/square/drink006.jpeg"
 		}
-	]
-}
+]
