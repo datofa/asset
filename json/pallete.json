@@ -3,6 +3,7 @@
       {
          "palleteId":"0001901",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -23,6 +24,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -46,6 +48,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -69,6 +72,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -92,6 +96,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -115,6 +120,7 @@
       {
          "palleteId":"0001",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -138,6 +144,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -161,6 +168,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -184,6 +192,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -207,6 +216,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -230,6 +240,7 @@
       {
          "palleteId":"0001",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -253,6 +264,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -276,6 +288,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -299,6 +312,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -322,6 +336,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -345,6 +360,7 @@
       {
          "palleteId":"0001",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -368,6 +384,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -391,6 +408,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -414,6 +432,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -437,6 +456,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -460,6 +480,7 @@
       {
          "palleteId":"0001",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -483,6 +504,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -506,6 +528,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -529,6 +552,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -552,6 +576,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -575,6 +600,7 @@
       {
          "palleteId":"0001",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -598,6 +624,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -621,6 +648,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -644,6 +672,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -667,6 +696,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -690,6 +720,7 @@
       {
          "palleteId":"0001",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -713,6 +744,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -736,6 +768,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -759,6 +792,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -782,6 +816,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -805,6 +840,7 @@
       {
          "palleteId":"0001",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -828,6 +864,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -851,6 +888,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -874,6 +912,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -897,6 +936,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -920,6 +960,7 @@
       {
          "palleteId":"0001",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -943,6 +984,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -966,6 +1008,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -989,6 +1032,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1012,6 +1056,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1035,6 +1080,7 @@
       {
          "palleteId":"0001",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1058,6 +1104,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1081,6 +1128,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1104,6 +1152,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1127,6 +1176,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1150,6 +1200,7 @@
       {
          "palleteId":"0001",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1173,6 +1224,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1196,6 +1248,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1219,6 +1272,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1242,6 +1296,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1265,6 +1320,7 @@
       {
          "palleteId":"0001",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1288,6 +1344,7 @@
       {
          "palleteId":"0002",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1311,6 +1368,7 @@
       {
          "palleteId":"0003",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1334,6 +1392,7 @@
       {
          "palleteId":"0004",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
@@ -1357,6 +1416,7 @@
       {
          "palleteId":"0005",
          "palleteName":"Sample Color",
+         "author":"XYZ",
          "source":"ABC",
          "info":"xxxx",
          "colorList":[
